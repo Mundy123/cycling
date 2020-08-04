@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+.box{
+    font-size: 35px;
+    background-color: rgb(156, 156, 53);
+    padding: 5%;
+    margin: 2.5%;
+    border: 1%;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+    width: 83%;
+}
+
+.nav .current {
+    background-color: darkgoldenrod;
+}
+
